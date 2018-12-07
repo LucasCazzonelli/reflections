@@ -1,7 +1,7 @@
-What happens when you initialize a repository? Why do you need to do it?
+What happens when you initialize a repository? You bind a repository to a specific directory. Why do you need to do it? To let git know about the directory?. 
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+How is the staging area different from the working directory and the repository? It is an intermediate between the working directory and the repository. 
+What value do you think it offers? It allows you to commit changes to multiple files at once. 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
