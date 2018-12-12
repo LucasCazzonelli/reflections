@@ -9,7 +9,7 @@ change? It allows you to add all logically connected changes to it and commit th
 What are some situations when branches would be helpful in keeping your history
  organized? It helps if you want to experiment with changes that might not make it into the final version of the program. How would branches help? They help by creating a seperate branch of commits which enable you to expirement with the sourcecode while leaving the main branch unaffected. 
 
-How do the diagrams help you visualize the branch structure?
+How do the diagrams help you visualize the branch structure? It shows which commits belong to seperate branches, helps identifying unreachable branches etc. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
